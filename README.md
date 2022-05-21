@@ -33,7 +33,7 @@ I learned about how to fetch data from an API and pick and choose what I needed 
         </a>
     </td>
     <td width="33.3%" valign="top">
-<a target="_blank" href="https://github.com/CharlesCreativeContent/matching-card-game"> Portfolio</a>
+<a target="_blank" href="https://github.com/christurc29/Portfolio"> Portfolio</a>
       <br />
         <a target="_blank" href="https://github.com/christurc29/Portfolio">
           <img src="img/portfolio.gif" width="100%" alt="Portfolio"/>
